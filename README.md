@@ -8,17 +8,17 @@
 </h1>
 
 <p>
-  I am a Staff Software Engineer at
-  <a
-    href="https://unqork.com/"
-    rel="noopener"
-    target="_blank"
-    >Unqork</a
-  >, working with web technologies and living in New York.
+  I am a Staff Software Engineer with 19 years of experience shipping for the web and mobile.
 </p>
 
 <p>
-  You can
+  Feel free to
+  <a
+    href="https://wes.dev/"
+    rel="noopener"
+    target="_blank"
+    >visit my website</a
+  >,
   <a
     href="https://dev.to/wes"
     rel="noopener"
@@ -30,26 +30,13 @@
     target="_blank"
     rel="noopener"
     >watch my tech talks</a
-  >
+  >,
   and
   <a
-    href="https://mobile.twitter.com/__WesSouza/"
+    href="https://bsky.app/profile/wes.dev"
     target="_blank"
     rel="me noopener"
-    >follow me on Twitter</a
-  >,
-  <a
-    href="https://mastodon.social/@wessouza"
-    rel="me noopener"
-    target="_blank"
-    >Mastodon</a
-  >
-  or
-  <a
-    href="https://www.instagram.com/wes.gif/"
-    target="_blank"
-    rel="me noopener"
-    >Instagram</a
+    >follow me on Bluesky</a
   >.
 </p>
 
@@ -92,10 +79,10 @@
     >Philz Coffee</a
   >,
   <a
-    href="https://www.scup.com/"
+    href="https://www.sprinklr.com"
     rel="noopener"
     target="_blank"
-    >Scup</a
+    >Sprinklr</a
   >,
   <a
     href="https://www.t-mobile.com/"
@@ -108,7 +95,13 @@
     rel="noopener"
     target="_blank"
     >Univision</a
-  >
+  >,
+  <a
+    href="https://www.unqork.com/"
+    rel="noopener"
+    target="_blank"
+    >Unqork</a
+  >,
   and
   <a
     href="https://work.co/"
