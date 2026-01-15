@@ -55,6 +55,12 @@
     >Booking.com</a
   >,
   <a
+    href="https://www.canva.com/"
+    rel="noopener"
+    target="_blank"
+    >Canva</a
+  >,
+  <a
     href="https://www.equinox.com/"
     rel="noopener"
     target="_blank"
