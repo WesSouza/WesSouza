@@ -8,7 +8,7 @@
 </h1>
 
 <p>
-  I am a Staff Software Engineer with 19 years of experience shipping for the web and mobile.
+  I am a Software Engineer with 19 years of experience shipping for the web and mobile.
 </p>
 
 <p>
@@ -65,6 +65,12 @@
     rel="noopener"
     target="_blank"
     >Haus</a
+  >,
+  <a
+    href="https://www.mongodb.com/"
+    rel="noopener"
+    target="_blank"
+    >MongoDB</a
   >,
   <a
     href="http://www.mtv.com.br/"
